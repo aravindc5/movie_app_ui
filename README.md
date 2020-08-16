@@ -1,6 +1,8 @@
-# movieappui
+# Movies App UI
+Design inspired from Dribble
 
-A new Flutter application.
+## Output:
+![movieappgif](https://user-images.githubusercontent.com/30715919/90329889-fc242500-dfc5-11ea-90a3-2f6dd5f3694c.gif)
 
 ## Getting Started
 
